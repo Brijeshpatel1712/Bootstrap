@@ -1,0 +1,151 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.main-1{
+    justify-content: space-between;
+}
+
+.inp{
+    width: 119%;
+}
+.object{
+    font-weight: 500;
+}
+
+
+li.nav-item.dropdown{
+    list-style: none; 
+}
+.nav-link {
+    top: 12%;
+   margin-left: 30%;
+}
+.nav-item-1{
+    display: flex;
+   margin-left: 28%;
+   margin-top: 25px;
+}
+.bb
+{
+    background-color: #000;
+}
+
+/* dropdown hover */
+
+.nav-item.dropdown:hover .dropdown-menu {
+    display: block; 
+    visibility: visible;
+    opacity: 1;
+    transition: opacity 0.3s ease;
+  }
+  
+  .dropdown-menu {
+    display: none; 
+    visibility: hidden;
+    opacity: 0;
+  }
+  
+  
+  .dropdown-item {
+    padding: 10px 15px;
+    text-align: left;
+    color: #000; /
+  }
+  
+  .dropdown-item:hover {
+    background-color: #f8f9fa; 
+  }
+   .img1{
+    position: relative;
+    overflow: hidden;
+    height: 70vh;
+    width: 100%;
+  } 
+  
+   .title1{
+    position:absolute;
+    color: #fff;
+    font-family: 'ChronicleLight' !important;
+    font-weight: lighter;
+    letter-spacing: 0;
+   bottom: 50%;
+   margin-left: 67px;
+  }
+  .title2{
+    position:absolute;
+    color: #fff;
+    bottom: 45%;
+    line-height: 1.25;
+    font-size: 0.9722222222222222vw;
+    margin-left: 67px;
+  }
+  .btn1{
+   
+    position:absolute;
+    color: #fff;
+    padding: 10px;
+    bottom: 40%;
+    line-height: 1.25;
+    font-size: 0.9722222222222222vw;
+    color: #000;
+    border: 1px solid #000;
+    background: #fff;
+    margin-left: 67px;
+  }
+  .btn1 a{
+    text-decoration: none;
+    color:black ;
+  }
+  button  :hover {
+    background-color: #000;
+    color: #fff;
+    padding: 10px;
+}
+/* img */
+.img img
+{
+  height: 314px;
+}
+.img-1{
+background:url(img/Frankie_Supporting_R2_Tier2B_Desktop.jpg);
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+height: 313px;
+color: #fff;
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;
+padding: 20px;
+}
+.img-2{
+  background: url(img/Tier2B_Desktop_Stainless.webp);
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+height: 313px;
+color: #fff;
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;
+padding: 20px;
+}
+
+.img-3{
+  background: url(img/Concrete_Supporting_R2_3_Tier2_Desktop.jpg);
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+height: 313px;
+color: #fff;
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;
+padding: 20px;
+}

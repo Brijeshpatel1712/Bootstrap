@@ -1,0 +1,32 @@
+@media(max-width:991px)
+{
+    .img-1
+    {
+        height: 600px;
+
+    }
+    .img-2
+    {
+        height: 600px;
+    }
+    .img-3
+    {
+        height: 600px;
+    }
+}
+@media(max-width:768px)
+{
+    .img-1
+    {
+        height: 300px;
+    }
+    .img-2
+    {
+        height: 300px;
+    }
+    .img-3
+    {
+        height: 300px;
+    }
+
+}

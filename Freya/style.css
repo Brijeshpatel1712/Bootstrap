@@ -1,0 +1,155 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.home
+{
+    background: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0)), url(img/home.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    block-size: cover;
+    height: 102vh;
+}
+.con
+{
+    background-image: linear-gradient(rgba(255, 255, 255, 0.9) 100%, rgba(255, 255, 255, 0.9));
+    border-radius: 30px;
+}
+.icon
+{
+    background-color: black;
+}
+
+.nav-item .nav-link
+{
+    color:#65666A;
+
+}
+.nav-item .nav-link:hover
+{
+    color: black;
+}
+.btn-1
+{
+    background-color: transparent;
+    color: white    ;
+    width: 20%;
+    font-weight: 500;
+    border: 2px solid white;
+    margin-left: 2%;
+    margin-top: 1%;
+}
+.text-1
+{
+    width: 70%;
+    padding-top: 10%;
+    margin: auto;
+    font-size: 32px;
+}
+.text-2
+{
+    color: #555555;
+    font-size: 17px;
+}
+.name
+{
+    width: 100%;
+    justify-content: space-between;
+    padding-left: 4%;
+}
+.bgg
+{
+    background: linear-gradient(rgba(0,0,0,0.55),rgba(0,0,0,0.55)), url(img/banner_1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    block-size: cover;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-attachment: fixed;
+    /* padding: 20px; */
+}    
+.box
+{
+    height: 550px;
+}
+.box img
+{
+    width: 100%;
+    height: 550px;
+}
+.boxx
+{   
+    height: 700px;
+}
+.boxx img
+{
+    width: 100%;
+    height: 700px;
+}
+.bgg-2
+{
+    background: linear-gradient(rgba(0,0,0,0.55),rgba(0,0,0,0.55)), url(img/banner_2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    block-size: cover;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-attachment: fixed;
+
+}
+.bgg-3
+{
+    background: linear-gradient(rgba(0,0,0,0.55),rgba(0,0,0,0.55)), url(img/banner_3.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    block-size: cover;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-attachment: fixed;
+}
+.bgg-4
+{
+    background: linear-gradient(rgba(0,0,0,0.55),rgba(0,0,0,0.55)), url(img/banner_4.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    block-size: cover;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-attachment: fixed;
+}
+.fti
+{
+    height: 90px;
+    background-color: #E1E1E1;
+}
+.centre
+{
+ 
+    padding-top: 28px;
+    height: auto;
+}
+.footer
+{
+    height: 195px;
+    background-color:black;
+}
+.centre-2
+{
+    padding-top: 50px;
+}
+
+
