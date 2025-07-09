@@ -1,0 +1,28 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.gelleryy
+{
+    margin: 20px;
+}
+.g-1
+{
+    background-color: khaki;
+  border-radius: 50%;
+    width: 20%;
+    margin: auto;
+    height: 50px;
+}
+.box
+{
+    height: 300px;
+
+}
+.box img
+{
+    width: 100%;
+    height: 300px;
+}

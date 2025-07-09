@@ -1,0 +1,15 @@
+.bgg
+{
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(img/bg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: auto;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+}
+
